@@ -25,7 +25,7 @@
         float:left;
         width: 14%;
         border: 0;
-        margin: 5px;
+        margin: 8px;
     }
     
     
@@ -33,6 +33,7 @@
         overflow: auto;
         float: left;
         width: 38%;
+        margin: 8px;
         
     }
     
