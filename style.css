@@ -16,8 +16,8 @@
     
     .floatingBox {
         float: left;
-        width: 175px;
-        margin: 5px;
+        max-width: 175px;
+        margin: auto;
         
     }
 
