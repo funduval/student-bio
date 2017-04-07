@@ -12,7 +12,7 @@
     h2{
         
         font-size: 24px;
-        text-indent: 25px;
+        text-indent: 40px;
     }
     h3 {
 
@@ -24,7 +24,7 @@
     #bio-image {
         float:left;
         width: 20%;
-        margin: 0px 80px;
+        margin: 0px 40px;
         
     }
     
@@ -32,7 +32,7 @@
     #main-bio{
         overflow: auto;
         float: left;
-        width: 33%;
+        width: 35%;
         margin: 8px;
         
     }
