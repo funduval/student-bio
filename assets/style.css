@@ -23,7 +23,7 @@
     
     #bio-image {
         float:left;
-        width: 14%;
+        width: 16%;
         border: 0;
         margin: 8px;
     }
@@ -32,7 +32,7 @@
     #main-bio{
         overflow: auto;
         float: left;
-        width: 38%;
+        width: 44%;
         margin: 8px;
         
     }
@@ -41,7 +41,7 @@
         
         overflow: auto;
         float: left;
-        width: 46%;
+        width: 38%;
         
     }
     
