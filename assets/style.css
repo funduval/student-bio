@@ -10,29 +10,30 @@
     }
 
     h2{
+        text-indent: 5px;
         font-size: 24px;
         
     }
     
     #bio-image {
         float:left;
-        width: 14%;
+        width: 16%;
         border: 0;
-        margin: auto;
+        margin: 5px;
     }
     
     
     #main-bio{
         overflow: auto;
         float: left;
-        width: 50%;
+        width: 42%;
         padding: 15px;
     }
     
     #contact-info {
         overflow: auto;
         float: left;
-        width: 36%;
+        width: 42%;
         
     }
     
