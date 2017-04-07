@@ -1,0 +1,40 @@
+
+    h1 {
+        line-height: 120px;
+        background: black;
+        color: white;
+        text-align: center;
+    }
+    
+    h2 {
+        text-align: center
+    }
+    
+    #bioPhoto {
+        height: 300px;
+    }
+    
+    .floatingBox {
+        float: left;
+        width: 175px;
+        margin: 5px;
+        
+    }
+
+  
+    
+    #assignment: {
+        text-align: center;
+    }
+    
+ 
+    
+    body {
+        font-size: 18px
+    }
+
+    p{
+
+    	padding:40px;
+    }
+    
