@@ -16,7 +16,7 @@
     }
     h3 {
 
-       text-indent: 30px;
+       text-indent: 41px;
         font-size: 24px;
 
     }
@@ -32,15 +32,15 @@
     #main-bio{
         overflow: auto;
         float: left;
-        width: 40%;
-        padding: 15px;
+        width: 38%;
+        padding: 6px;
     }
     
     #contact-info {
         
         overflow: auto;
         float: left;
-        width: 44%;
+        width: 46%;
         
     }
     
