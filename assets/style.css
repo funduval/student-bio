@@ -23,7 +23,7 @@
     
     #bio-image {
         float:left;
-        width: 16%;
+        width: 14%;
         border: 0;
         margin: 5px;
     }
@@ -33,7 +33,7 @@
         overflow: auto;
         float: left;
         width: 38%;
-        padding: 6px;
+        
     }
     
     #contact-info {
