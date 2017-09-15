@@ -55,11 +55,21 @@
         
         margin: 0;
         padding: 0;
-        padding-left: 40px;
+
         background-color: #efeee7;
         font-family: 'Roboto', sans-serif;;
         color:#333333;
 
+    }
+
+    p{
+
+
+        margin-left: 60px;
+    }
+    ul{
+
+        margin-left: 60px;
     }
     
    
